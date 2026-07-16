@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/096d2df9-80be-4512-b911-283ceb553f90" /><div align="center">
 
 # 🧊 Liquid Glass Element
 
@@ -38,7 +38,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/aaqswde/Liquid-Glass-Element.git
+git clone https://github.com/occupiedbyhim/Liquid-Glass-Element.git
 cd Liquid-Glass-Element
 ```
 
@@ -75,7 +75,7 @@ This project is packaged as an **agent skill** compatible with:
 
 ```bash
 # Clone into your agent's skills directory
-git clone https://github.com/aaqswde/Liquid-Glass-Element.git ~/.agents/skills/liquid-glass-element
+git clone https://github.com/occupiedbyhim/Liquid-Glass-Element.git ~/.agents/skills/liquid-glass-element
 ```
 
 Or add to your agent's `skills.json`:
