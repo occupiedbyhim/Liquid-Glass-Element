@@ -38,7 +38,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Liquid-Glass-Element.git
+git clone https://github.com/aaqswde/Liquid-Glass-Element.git
 cd Liquid-Glass-Element
 ```
 
