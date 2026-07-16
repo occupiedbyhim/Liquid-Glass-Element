@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liquid Glass Preview</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="glcanvas"></canvas>
+    
+    <div class="slider-wrapper" id="sliderWrapper">
+        <label for="opacitySlider">Glass Blur (Frosting)</label>
+        <input type="range" id="opacitySlider" min="0" max="1" step="0.01" value="0.95">
+    </div>
+
+    <div class="login-panel" id="loginPanel">
+        <!-- 8-way popup resizers -->
+        <div class="resizer r-top"></div>
+        <div class="resizer r-bottom"></div>
+        <div class="resizer r-left"></div>
+        <div class="resizer r-right"></div>
+        <div class="resizer r-tl"></div>
+        <div class="resizer r-tr"></div>
+        <div class="resizer r-bl"></div>
+        <div class="resizer r-br"></div>
+
+        <div class="drag-handle" id="dragHandle"></div>
+        <h2>Sign In</h2>
+        <div class="input-group">
+            <input type="text" placeholder="Username" required />
+        </div>
+        <div class="input-group">
+            <input type="password" placeholder="Password" required />
+        </div>
+        <button class="sign-in-btn">Authenticate</button>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
