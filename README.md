@@ -75,7 +75,7 @@ This project is packaged as an **agent skill** compatible with:
 
 ```bash
 # Clone into your agent's skills directory
-git clone https://github.com/YOUR_USERNAME/Liquid-Glass-Element.git ~/.agents/skills/liquid-glass-element
+git clone https://github.com/aaqswde/Liquid-Glass-Element.git ~/.agents/skills/liquid-glass-element
 ```
 
 Or add to your agent's `skills.json`:
