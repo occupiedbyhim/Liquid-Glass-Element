@@ -1,4 +1,4 @@
-<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/096d2df9-80be-4512-b911-283ceb553f90" /><div align="center">
+
 
 # 🧊 Liquid Glass Element
 
